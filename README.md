@@ -1,3 +1,5 @@
+https://patricia-droid.github.io/ESTUDIO-DE-GEOMARKETING-EN-CANTABRIA/
+
 El objetivo de este proyecto es familiarizarse con la relación entre usos del suelo y transporte a través de un indicador de accesibilidad agregado. Para ello, se plantea calcular el potencial que tienen tres localizaciones para acceder a mano de obra. Por ejemplo, una gran industria puede tener como factor de localización una elevada masa de población residente lo más cerca posible. Desde el punto de vista técnico, el objetivo es adquirir la habilidad de realizar un flujo de trabajo completo, desde la adquisición de datos, tratamiento, almacenamiento en una base de datos espacial, análisis y evaluación de resultados.
 
 El desarrollo de este caso práctico consta de las siguientes tareas:
